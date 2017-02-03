@@ -1,8 +1,9 @@
 # Site settings
-title: Skiteams: how ski teams carpool
+title: Skiteams-how ski teams carpool
 email: skiteams@productteams.com
 description: > # this means to ignore newlines until "baseurl:"
-  Now there is an easy way to coordinate carpooling. Getting kids to the mountain has never been easier.
+  Now there is an easy way to coordinate carpooling. 
+  Getting kids to the mountain has never been easier.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://skiteams.co" # the base hostname & protocol for your site
 twitter_username: skiteams
