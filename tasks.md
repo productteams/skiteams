@@ -2,7 +2,7 @@
 layout: page
 title:  "Tasks"
 date:   2017-01-23 13:46:40
-permalink: /ranked-tasks/
+permalink: /tasks/
 ---
 <div align="center">
 <strong>Our Satisfaction Index </strong>(rated by members after every task) <br>
