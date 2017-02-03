@@ -2,7 +2,7 @@
 layout: page
 title:  "Compare"
 date:   2016-09-04 13:46:40
-permalink: /plan-comparison/
+permalink: /compare/
 ---
 <div align="center">
 
